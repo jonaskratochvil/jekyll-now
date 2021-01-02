@@ -3,7 +3,7 @@ layout: post
 title: Ahoj, koná se velká svatba!
 ---
 
-![svatba](/images/jonasklara.png)
+![](/images/jonasklara.png)
 
 Bude se vdávat Klára Lášková a ženit se bude Jonáš Kratochvíl.
 
