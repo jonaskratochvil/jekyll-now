@@ -21,6 +21,7 @@ body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  margin:0 auto;
 }
 
 .container {
@@ -191,7 +192,7 @@ img {
 }
 
 .site-name {
-  margin: 0;
+  margin: 0 auto;
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
