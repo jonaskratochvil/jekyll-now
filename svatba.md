@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Svatba
 permalink: /svatba/
 ---
 Bude se vdávat Klára Lášková a ženit se bude Jonáš Kratochvíl.
