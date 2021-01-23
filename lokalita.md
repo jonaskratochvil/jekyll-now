@@ -11,4 +11,4 @@ Svatební obřed proběhne
 
 ### Svatební hostina s rodinou
 
-### Svatební radovánky
+### Svatební oslava

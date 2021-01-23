@@ -1,4 +1,5 @@
 ---
 layout: page
 ---
+S radostí vám oznamujeme, že *26.6.2021* na dobro zpečetíme náž vztah svazkem manželským a zahazujeme psí knížku. AhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhojAhoj
 ![](/images/jonasklara.png)
