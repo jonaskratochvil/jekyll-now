@@ -5,6 +5,10 @@ permalink: /lokalita/
 
 Detaily mista konani bude upresneno zde.
 
-### Lokalita
+### Svatební obřad
 
-Zde bude popsáno místo.
+Svatební obřed proběhne 
+
+### Svatební hostina s rodinou
+
+### Svatební radovánky
