@@ -2,4 +2,4 @@
 layout: page
 ---
 ![](/images/jonasklara.png)
-S radostí vám oznamujeme, že Klára a Jonáš už spolu nebudou "na psí knížku" a dne **26.6.2021** navěky zpečetí svůj vztah svazkem manželským. 
+S radostí vám oznamujeme, že Klára a Jonáš už spolu nebudou "na psí knížku" a dne **26.6.2021** v **11:00** si řeknou své ano. Zveme Vás, maminky, tatínci, babičky, dědečkové, sestry, bratři, tetičky, strejdové, sestřenice, bratranci, kamarádky a kamarádi, abyste v tento den společně s námi vystoupali na kopec k posvátnému menhiru nad vesničkou Mořinka, kde se uskuteční svatební obřad.
