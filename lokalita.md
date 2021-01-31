@@ -6,14 +6,13 @@ permalink: /lokalita/
 ### Svatební obřad
 Svatební obřad se uskuteční na kopci u Menhiru nad vesničkou Mořinka. Mořinka se nachází 30 kilometrů od Prahy a je dostupná buď autem, nebo autobusem z nedalekých Řevnic. 
 
-<div style="width: 100%"><iframe scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=49.943204443540814,14.238774776458742+(Svatebn%C3%AD%20ob%C5%99ad)&amp;t=k&amp;z=16&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" width="100%" height="450" frameborder="0"></iframe></div>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1842.143688781865!2d14.236580750384487!3d49.943207831564706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDnCsDU2JzM1LjUiTiAxNMKwMTQnMTkuNiJF!5e1!3m2!1sen!2sus!4v1612106452003!5m2!1sen!2sus&zoom=9" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 ### Svatební hostina s rodinou
 Svatební hostina se uskuteční 
-<div style="width: 100%"><iframe scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=49.953304677538966,14.307246208190918+(Svatebni%20hostina)&amp;t=k&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" width="100%" height="450" frameborder="0"></iframe></div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1841.7574288317574!2d14.305052150384949!3d49.953308130842125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDnCsDU3JzExLjkiTiAxNMKwMTgnMjYuMSJF!5e1!3m2!1sen!2sus!4v1612106600436!5m2!1sen!2sus&zoom=9" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 ### Svatební oslava
 Svatební hostina se uskuteční 
-<div style="width: 100%"><iframe scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=450&amp;hl=en&amp;q=49.961170070599934,14.316301345825197+(Svatebn%C3%AD%20oslava)&amp;t=k&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" width="100%" height="450" frameborder="0"></iframe></div>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1841.456597234386!2d14.314107250385371!3d49.961173530279304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDnCsDU3JzQwLjIiTiAxNMKwMTgnNTguNyJF!5e1!3m2!1sen!2sus!4v1612106664767!5m2!1sen!2sus&zoom=9" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
