@@ -5,9 +5,9 @@ permalink: /program/
 
 Detaily programu budou zverejneny zde.
 
-|Čas    |Program 
-|-------|--------------------------------------|
-|11:00  |test                                  |
+|Čas  |Program|
+|-----|-------|
+|11:00|test   |
 
 ### Program
 1. Obřad
