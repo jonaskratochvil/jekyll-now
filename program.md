@@ -5,12 +5,11 @@ permalink: /program/
 
 Detaily programu budou zverejneny zde.
 
-Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value
--------|-------------------
-`Value-One` | Long explanation
-`Value-Two` | Long explanation
-`etc` | Long explanation
-
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
 
 ### Program
 1. Obřad
