@@ -5,9 +5,9 @@ permalink: /program/
 
 Detaily programu budou zverejneny zde.
 
-|Name   |Columns                               |
+|Čas    |Program 
 |-------|--------------------------------------|
-|PRIMARY|{::nomarkdown}<ul><li>id</li></ul>{:/}|
+|11:00  |test                                  |
 
 ### Program
 1. Obřad
