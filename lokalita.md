@@ -2,6 +2,7 @@
 layout: page
 permalink: /lokalita/
 ---
+Zde naleznete informace o tom, jak se dostat na místo svatebního obřadu, jak se neztratit při cestě na svatební hostinu a kam za svatební oslavou.
 
 ### Svatební obřad
 Svatební obřad se uskuteční na kopci u Menhiru nad vesničkou Mořinka. Mořinka se nachází 30 kilometrů od Prahy a je dostupná buď autem, nebo autobusem od vlakového nádraží z nedalekých Řevnic.
