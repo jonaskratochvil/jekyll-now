@@ -5,11 +5,9 @@ permalink: /program/
 
 Detaily programu budou zverejneny zde.
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+|Name   |Columns                               |
+|-------|--------------------------------------|
+|PRIMARY|{::nomarkdown}<ul><li>id</li></ul>{:/}|
 
 ### Program
 1. Obřad
