@@ -203,7 +203,8 @@ img {
   letter-spacing: 1px;
 
   @include mobile {
-    text-align: center;
+    margin-right: 164px;
+    font-size: 28px;
   }
 }
 
