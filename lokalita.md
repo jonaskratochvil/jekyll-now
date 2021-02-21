@@ -2,6 +2,7 @@
 layout: page
 permalink: /lokalita/
 ---
+kkkkkkkkkkkkkkkkkkkkkkkkkkkk
 Zde naleznete informace o tom, jak se dostat na místo svatebního obřadu, jak se neztratit při cestě na svatební hostinu a kam za svatební oslavou.
 
 ### Svatební obřad
