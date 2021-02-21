@@ -10,9 +10,9 @@ Detaily programu budou zverejneny zde.
 |11:00|test   |
 
 ### Program
-* Obřad
-* Hostina
-* Zahájení posvatební party
-* Svatební program
-* Konzert
-* Oheň a opékání špekáčků!
+* 11:00       Obřad
+* 12:30       Svatebni hostina s rodinou Hostina
+* 15:30       Zahájení posvatební party
+* 17:00       Turnaj ve vodnim velejbalu
+* 19:00       Koncert
+* 22:00       Oheň
