@@ -13,4 +13,4 @@ Detaily programu a dalších informací budou postupně přibývat zde.
 **19:00** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Koncert kapely Ondřejova Bednička\*<br/>
 **22:00** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oheň a grilování<br/>
 
-\* česká undergroundová kapela hladající inspiraci v legendárních The Velvet Underground
+\* <sub><sup>česká undergroundová kapela hladající inspiraci v legendárních The Velvet Underground</sup></sub>
