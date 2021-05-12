@@ -10,7 +10,6 @@ permalink: /program/
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Můžete se těšit na: výborný raut, grilování, zákusky a svatební dort, dostatek lihovin všeho druhu, turnaj ve vodním volejbalu\*, tancování, koncert české kultovní undergroundové kapely Ondřejova Bednička, Toi Toi záchody a mnohé další radovánky.<br/>
 
+Vzhledem k logistickým přípravám prosíme o potvrzení vaší účasti na svatbě do 12.6.2021 na [jonas.kratochvil@gmail.com](mailto:jonas.kratochvil@gmail.com), nebo [klara.lasek@email.com](mailto:klara.lasek@email.com), děkujeme.
 
 \* <sub><sup>plavky doporučené</sup></sub>
-
-Vzhledem k logistickým přípravám prosíme o potvrzení vaší účasti na svatbě do 12.6.2021 na [jonas.kratochvil@gmail.com](mailto:jonas.kratochvil@gmail.com), nebo [klara.lasek@email.com](mailto:klara.lasek@email.com), děkujeme.
