@@ -13,4 +13,4 @@ permalink: /program/
 
 \* <sub><sup>plavky doporučené</sup></sub>
 
-Vzhledem k logistickým přípravám prosíme o potvrzení vaší účasti na svatbě do 12.6.2021 na [jonas.kratochvil@gmail.com], nebo [klara.lasek@email.com], děkujeme.
+Vzhledem k logistickým přípravám prosíme o potvrzení vaší účasti na svatbě do 12.6.2021 na [jonas.kratochvil@gmail.com](mailto:jonas.kratochvil@gmail.com), nebo [klara.lasek@email.com](mailto:klara.lasek@email.com), děkujeme.
