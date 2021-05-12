@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /kontakt/
+permalink: /info/
 ---
 
 #### Email
