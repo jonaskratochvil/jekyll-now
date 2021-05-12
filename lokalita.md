@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /lokalita/
+permalink: /lokalita
 ---
 
 ### Svatební obřad

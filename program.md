@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /program/
+permalink: /program
 ---
 
 ### Program
