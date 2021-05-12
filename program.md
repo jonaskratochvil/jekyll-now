@@ -8,7 +8,7 @@ permalink: /program/
 **13:00** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Svatebni hostina s rodinou <br/>
 **15:00** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Svatební oslava v Černošicích <br/>
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Můžete se těšit na: výborný raut, grilování, zákusky a svatební dort, dostatek lihovin všeho druhu, turnaj ve vodním volejbalu\*, tancování, koncert české kultovní undergroundové kapely Ondřejova Bednička, Toi Toi záchody a mnohé další radovánky.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Můžete se těšit na: výborný raut, grilování, zákusky a svatební dort, dostatek lihovin a nealkoholických nápojů všeho druhu, turnaj ve vodním volejbalu\*, tancování, koncert české kultovní undergroundové kapely Ondřejova Bednička, Toi Toi záchody a mnohé další radovánky.<br/>
 
 Pro zájemce o přespání je zajištěna travnatá plocha s možností postavení vlastního stanu či jiného zvoleného příbytku. Tato přespávací plocha je vzdálena přibližně 5 až 10 minut od místa oslavy.
 
