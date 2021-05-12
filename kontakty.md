@@ -7,4 +7,4 @@ permalink: /kontakt/
 
 Jonáš: [jonas.kratochvil@gmail.com](mailto:jonas.kratochvil@gmail.com)
 
-Klára: [klara.lasek@email.com](mailto:klara.lasek@email.com)
+Klára:&nbsp; [klara.lasek@email.com](mailto:klara.lasek@email.com)
