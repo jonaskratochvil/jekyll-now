@@ -3,7 +3,7 @@ layout: page
 permalink: /info
 ---
 #### Ubytování
-Pro zájemce o přespání je zajištěna travnatá plocha s možností postavení vlastního stanu či jiného zvoleného příbytku. Tato přespávací plocha je vzdálena přibližně 5 až 10 minut od místa oslavy.
+Pro zájemce o přespání je zajištěn prostor v černošické tělocvičně s dostupným hygienickým zázemím. Tělocvična je vzdálena přibližně 5 až 10 minut od místa oslavy.
 
 #### Potvrzení účasti
 Vzhledem k logistickým přípravám prosíme o potvrzení Vaší účasti na svatbě nejpozději do 12.6.2021 na naše e-mailové adresy, děkujeme.
