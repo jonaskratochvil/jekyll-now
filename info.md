@@ -15,4 +15,4 @@ Svatební dary nejsou nutností. Oceníme však vaše kreativní nápady, nebo p
 
 Jonáš: [jonas.kratochvil@gmail.com](mailto:jonas.kratochvil@gmail.com)
 
-Klára:&nbsp; [klara.lasek@email.com](mailto:klara.lasek@email.com)
+Klára:&nbsp; [klara.lasek@email.com](mailto:klara.lasek@email.cz)
