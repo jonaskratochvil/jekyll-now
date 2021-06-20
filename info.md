@@ -3,7 +3,10 @@ layout: page
 permalink: /info
 ---
 #### Ubytování
-Pro zájemce o přespání je zajištěn prostor v černošické tělocvičně s dostupným hygienickým zázemím. Tělocvična je vzdálena přibližně 5 až 10 minut od místa oslavy.
+Přespání je možné v námi předem připravených stanech na zahradě konání oslavy. Další možnost přespání je zajištěna prostorech černošické tělocvičny s dostupným hygienickým zázemím. Tělocvična je vzdálena přibližně 5 až 10 minut od místa oslavy. Prosíme každého o vlastní přikrývku.
+
+#### Dress code
+Dress code k obřadu je semi formální, svatební oslava pak bude probíhat v neformálním stylu.
 
 #### Potvrzení účasti
 Vzhledem k logistickým přípravám prosíme o potvrzení Vaší účasti na svatbě nejpozději do 12.6.2021 na naše e-mailové adresy, děkujeme.
